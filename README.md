@@ -1,4 +1,6 @@
-🚀 successfully deployed contract's address:  0x8FA85d4f2A4e99Aa080718FaF74A1990b8Db9AFe
+🚀 deployed contract url: https://eth-ropsten.alchemyapi.io/v2/lG94bu_LGHBK9TiXFjdkgCSjbFesav9c
+
+🎉 successfully deployed contract's address:  0x8FA85d4f2A4e99Aa080718FaF74A1990b8Db9AFe
 
 # Basic Sample Hardhat Project
 
